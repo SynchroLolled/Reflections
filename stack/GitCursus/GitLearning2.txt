@@ -14,3 +14,13 @@ the diagram the way we do? they merge the differend data.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually? You choosing when to merge vs mistakes happening because you didn't want it merged.
+
+Git Branch to create a side project of the main project
+Git branch easy-mode
+*master <- means checked otu (*)
+Git checkout easy-mode <--- making changes into the branch
+
+git checkout -b (branch name)
+^ git branch create & checkout
+
+Merge 'branchname'
